@@ -4,10 +4,6 @@
    box-sizing: border-box;
    overflow:hidden;
 }
-html{
-   scroll-behavior: smooth;
-}
-
 body{
    
  background-color: black;
