@@ -157,6 +157,10 @@ color: red;
    box-shadow: 0 0 10px Blue;
    background-color: Green;
 }
+.contact{
+   align-items:center;
+   background-color:Lime;
+}
 .contact p{
 margin-top: 5px;
  font-size: 18px;
