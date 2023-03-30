@@ -157,3 +157,24 @@ color: red;
    box-shadow: 0 0 10px Blue;
    background-color: Green;
 }
+.contact p{
+margin-top: 5px;
+ font-size: 18px;
+align-items: center;
+display: flex;
+justify-content: center;
+flex-direction: column;
+text-align: center;
+Color:black;
+}
+.social-icons{
+margin-top: 2px;
+display: inline-flex;
+}
+.social-icons .icon{
+font-size: 20px;
+margin: 20px;
+cursor: pointer;
+color:black;
+align-items: center;
+}
